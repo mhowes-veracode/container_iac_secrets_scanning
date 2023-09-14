@@ -6,7 +6,7 @@ Veracode Container/IaC/Secrets Scanning Action runs the Veracode-CLI as an actio
 
 The `Container/IaC/Secrets Scanning Action` is designed to be used in a CI/CD pipeline to scan a local folder, remote repository, image or archive for 3rd party library vulnerabilities, infrastrucre as code misconfigurations and stored secrets.
 
-For more information on Pipeline Scan visit Veracode Help Center Page: https://docs.veracode.com/r/Veracode_Container_Security
+For more information on Pipeline Scan, go to the [Veracode Documentation](https://docs.veracode.com/r/Pipeline_Scan).
 
 ## Usage
 
